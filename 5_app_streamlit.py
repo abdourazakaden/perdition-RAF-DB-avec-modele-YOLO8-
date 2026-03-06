@@ -12,8 +12,7 @@ import time
 import numpy as np
 import pandas as pd
 import streamlit as st
-import plotly.graph_objects as go
-import plotly.express as px
+import matplotlib.pyplot as plt
 from PIL import Image
 
 # Import du module de prédiction
